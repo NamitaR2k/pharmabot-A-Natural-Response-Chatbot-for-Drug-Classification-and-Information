@@ -26,8 +26,6 @@ CSV Data → Text Splitting → HuggingFace Embeddings
 
 Tech Stack
 
-Here’s your list formatted neatly as **bullet points**:
-
 * Python 3.10+
 * Google PaLM
 * LangChain
