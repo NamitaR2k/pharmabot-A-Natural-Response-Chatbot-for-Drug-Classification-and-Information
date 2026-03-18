@@ -26,12 +26,14 @@ CSV Data → Text Splitting → HuggingFace Embeddings
 
 Tech Stack
 
-Python 3.10+
-Google PaLM
-LangChain
-HuggingFace all-MiniLM-L6-v2
-FAISS
-Streamlit
+Here’s your list formatted neatly as **bullet points**:
+
+* Python 3.10+
+* Google PaLM
+* LangChain
+* HuggingFace all-MiniLM-L6-v2
+* FAISS
+* Streamlit
 
 
 Use Cases
